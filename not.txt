@@ -1,0 +1,2 @@
+spech.py dosyası projenin kendisi diğerleri hata düzeltmeleri veya ek özellikler(arayüz ,kelimelerin birbirine göre değerlendirilmesi gibi) için deneme
+resimleri indirmesi ve açması için dosya yollarının değişmesi gerekebilir
